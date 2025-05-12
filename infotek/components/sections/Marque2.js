@@ -1,5 +1,3 @@
-
-
 export default function Marque2() {
     return (
         <>
@@ -9,18 +7,18 @@ export default function Marque2() {
                         <div className="marquee-inner to-left">
                             <ul className="marqee-list d-flex">
                                 <li className="marquee-item style-2">
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Cyber Security</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">IT Solution</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Technology</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Data Security</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Cyber Security</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">IT Solution</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Technology</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Data Security</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Cyber Security</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">IT Solution</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Technology</span>
-                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Data Security</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Smart ERP</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">AI Agents</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Custom AI Solutions</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Custom Solutions</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Workflow Automation</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Governance Systems</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Odoo Partner</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Real-Time Data</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Digital Strategy</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">IoT Integration</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">Industry Focused</span>
+                                    <span className="text-slider"><img src="/assets/img/asterisk.svg" alt="img" /></span><span className="text-slider text-style">From Idea to Execution</span>
                                 </li>
                             </ul>
                         </div>

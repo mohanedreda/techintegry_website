@@ -62,7 +62,7 @@ export default function Footer2() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <img src="/assets/img/logo/white-logo.svg" alt="logo-img" />
+                                            <img src="/assets/img/logo/TechIntegry_white.svg" alt="logo-img" />
                                         </Link>
                                     </div>
                                     <div className="footer-content">
