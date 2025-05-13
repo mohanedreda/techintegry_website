@@ -7,10 +7,10 @@ export default function Footer1() {
             <footer className="footer-section">
                 <div className="footer-widgets-wrapper footer-bg">
                     <div className="shape-1">
-                        <img src="/assets/img/footer-shape-1.png" alt="shape-img" />
+                        <img src="/assets/img/footer-shape-1.png" alt="shape-img"/>
                     </div>
                     <div className="shape-2">
-                        <img src="/assets/img/footer-shape-2.png" alt="shape-img" />
+                        <img src="/assets/img/footer-shape-2.png" alt="shape-img"/>
                     </div>
                     <div className="container">
                         <div className="row">
@@ -18,7 +18,7 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <img src="/assets/img/logo/white-logo.svg" alt="logo-img" />
+                                            <img src="/assets/img/logo/logo-header-size.png" alt="logo-img"/>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
@@ -28,10 +28,10 @@ export default function Footer1() {
                                             curabitur lacinia mollis
                                         </p>
                                         <div className="social-icon d-flex align-items-center">
-                                            <Link href="#"><i className="fab fa-facebook-f" /></Link>
-                                            <Link href="#"><i className="fab fa-twitter" /></Link>
-                                            <Link href="#"><i className="fa-brands fa-linkedin-in" /></Link>
-                                            <Link href="#"><i className="fa-brands fa-youtube" /></Link>
+                                            <Link href="#"><i className="fab fa-facebook-f"/></Link>
+                                            <Link href="#"><i className="fab fa-twitter"/></Link>
+                                            <Link href="#"><i className="fa-brands fa-linkedin-in"/></Link>
+                                            <Link href="#"><i className="fa-brands fa-youtube"/></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -44,31 +44,31 @@ export default function Footer1() {
                                     <ul className="list-area">
                                         <li>
                                             <Link href="/about">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                Infotech About
+                                                <i className="fa-solid fa-chevron-right"/>
+                                                About
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/service">
-                                                <i className="fa-solid fa-chevron-right" />
+                                                <i className="fa-solid fa-chevron-right"/>
                                                 Our Services
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/news">
-                                                <i className="fa-solid fa-chevron-right" />
+                                                <i className="fa-solid fa-chevron-right"/>
                                                 Our Blogs
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/faq">
-                                                <i className="fa-solid fa-chevron-right" />
+                                                <i className="fa-solid fa-chevron-right"/>
                                                 FAQ’S
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/contact">
-                                                <i className="fa-solid fa-chevron-right" />
+                                                <i className="fa-solid fa-chevron-right"/>
                                                 Contact Us
                                             </Link>
                                         </li>
@@ -83,18 +83,18 @@ export default function Footer1() {
                                     <div className="recent-post-area">
                                         <div className="recent-post-items">
                                             <div className="thumb">
-                                                <img src="/assets/img/news/pp1.jpg" alt="post-img" />
+                                                <img src="/assets/img/news/pp1.jpg" alt="post-img"/>
                                             </div>
                                             <div className="content">
                                                 <ul className="post-date">
                                                     <li>
-                                                        <i className="fa-solid fa-calendar-days me-2" />
+                                                        <i className="fa-solid fa-calendar-days me-2"/>
                                                         20 Feb, 2024
                                                     </li>
                                                 </ul>
                                                 <h6>
                                                     <Link href="/news-details">
-                                                        Top 5 Most Famous <br />
+                                                        Top 5 Most Famous <br/>
                                                         Technology Trend In 2024
                                                     </Link>
                                                 </h6>
@@ -102,18 +102,18 @@ export default function Footer1() {
                                         </div>
                                         <div className="recent-post-items mb-0">
                                             <div className="thumb">
-                                                <img src="/assets/img/news/pp2.jpg" alt="post-img" />
+                                                <img src="/assets/img/news/pp2.jpg" alt="post-img"/>
                                             </div>
                                             <div className="content">
                                                 <ul className="post-date">
                                                     <li>
-                                                        <i className="fa-solid fa-calendar-days me-2" />
+                                                        <i className="fa-solid fa-calendar-days me-2"/>
                                                         15 Dec, 2024
                                                     </li>
                                                 </ul>
                                                 <h6>
                                                     <Link href="/news-details">
-                                                        The Surfing Man Will Blow <br />
+                                                        The Surfing Man Will Blow <br/>
                                                         Your Mind
                                                     </Link>
                                                 </h6>
@@ -130,21 +130,23 @@ export default function Footer1() {
                                     <div className="footer-content">
                                         <ul className="contact-info">
                                             <li>
-                                                <i className="fas fa-map-marker-alt" />
-                                                6391 Elgin St. Celina, USA
+                                                <i className="fas fa-map-marker-alt"/>
+                                                جدة – المملكة العربية السعودية
+                                                الدور 4 مبني جوهرة التحلية – حي الاندلس – جدة
                                             </li>
                                             <li>
-                                                <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:2086660112">+208-666-0112</Link>
+                                                <i className="fa-solid fa-phone-volume"/>
+                                                <Link href="/tel:2086660112">+966 537878566</Link>
                                             </li>
                                             <li>
-                                                <i className="fa-regular fa-envelope" />
-                                                <Link href="/mailto:infotech@gmail.com">Infotech@gmail.com</Link>
+                                                <i className="fa-regular fa-envelope"/>
+                                                <Link
+                                                    href="/mailto:infotech@gmail.com">Techintegry@techintegry.com</Link>
                                             </li>
                                         </ul>
                                         <Link href="/contact" className="theme-btn hover-white mt-4">
                                             get A Quote
-                                            <i className="fa-solid fa-arrow-right-long" />
+                                            <i className="fa-solid fa-arrow-right-long"/>
                                         </Link>
                                     </div>
                                 </div>
@@ -156,7 +158,8 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-between">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()} by <Link href="/">Infotech</Link>
+                                © All Copyright {new Date().getFullYear()} by <Link href="/">INTEGRATION
+                                TECHNOLOGY</Link>
                             </p>
                             <ul className="footer-menu wow fadeInRight" data-wow-delay=".5s">
                                 <li>
@@ -173,7 +176,7 @@ export default function Footer1() {
                         </div>
                     </div>
                     <Link href="#" id="scrollUp" className="scroll-icon">
-                        <i className="far fa-arrow-up" />
+                        <i className="far fa-arrow-up"/>
                     </Link>
                 </div>
             </footer>

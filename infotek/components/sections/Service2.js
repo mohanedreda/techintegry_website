@@ -9,7 +9,7 @@ export default function Service2() {
                     <div className="section-title text-center">
                         <span className="wow fadeInUp">OUR SERVICES</span>
                         <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                            We Provide the Best Quality
+                            We Deliver Smart, Scalable Solutions
                         </h2>
                     </div>
                     <div className="row">
@@ -21,11 +21,11 @@ export default function Service2() {
                                 <div className="content">
                                     <h4>
                                         <Link href="/service-details">
-                                            Database Security
+                                            Smart ERP Systems
                                         </Link>
                                     </h4>
                                     <p>
-                                        Mauris ultrices ligula eget volutpat aliquet nullam
+                                        Tailored enterprise solutions for real estate, construction, and manufacturing.
                                     </p>
                                     <Link href="/service-details" className="theme-btn-2 mt-3">
                                         read More
@@ -42,11 +42,11 @@ export default function Service2() {
                                 <div className="content">
                                     <h4>
                                         <Link href="/service-details">
-                                            IT Consultancy
+                                            AI Marketing Agents
                                         </Link>
                                     </h4>
                                     <p>
-                                        Mauris ultrices ligula eget volutpat aliquet nullam
+                                        Automate your campaigns with intelligent agents that think, learn, and optimize.
                                     </p>
                                     <Link href="/service-details" className="theme-btn-2 mt-3">
                                         read More
@@ -63,11 +63,11 @@ export default function Service2() {
                                 <div className="content">
                                     <h4>
                                         <Link href="/service-details">
-                                            Cyber Security
+                                            Workflow Automation
                                         </Link>
                                     </h4>
                                     <p>
-                                        Mauris ultrices ligula eget volutpat aliquet nullam
+                                        Turn repetitive tasks into silent, seamless processes across your teams.
                                     </p>
                                     <Link href="/service-details" className="theme-btn-2 mt-3">
                                         read More
@@ -84,11 +84,11 @@ export default function Service2() {
                                 <div className="content">
                                     <h4>
                                         <Link href="/service-details">
-                                            App Development
+                                            Custom AI Solutions
                                         </Link>
                                     </h4>
                                     <p>
-                                        Mauris ultrices ligula eget volutpat aliquet nullam
+                                        From demand forecasting to image analysis — we build AI to match your need.
                                     </p>
                                     <Link href="/service-details" className="theme-btn-2 mt-3">
                                         read More

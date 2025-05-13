@@ -35,7 +35,7 @@ export default function Hero2() {
                                 </h2>
                                 <p className="wow fadeInUp" data-wow-delay=".6s">
                                     We don’t sell off-the-shelf systems — we design tailored solutions <br/>
-                                    grounded in a deep understanding of your operations. <br/><br/>
+                                    grounded in a deep understanding of your operations. <br/>
                                     Our approach simplifies complexity, drives digital transformation, <br/>
                                     and ensures long-term value through strong governance. <br/><br/>
                                 </p>
