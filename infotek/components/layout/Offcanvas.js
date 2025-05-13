@@ -15,7 +15,7 @@ export default function Offcanvas({
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
                                     <Link href="/">
-                                        <img src="/assets/img/logo/black-logo.svg" alt="logo-img" />
+                                        <img src="/assets/img/logo/logo-header-size.png" alt="logo-img" />
                                     </Link>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
@@ -39,7 +39,8 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">Main Street, Melbourne, Australia</Link>
+                                            <Link target="_blank" href="#">جدة – المملكة العربية السعودية
+                                                الدور 4 مبني جوهرة التحلية – حي الاندلس – جدة</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -47,7 +48,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:info@example.com">info@example.com</span></Link>
+                                            <Link href="/mailto:info@azent.com"><span className="mailto:Techintegry@Techintegry.com">info@example.com</span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -55,7 +56,7 @@ export default function Offcanvas({
                                             <i className="fal fa-clock" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">Mod-friday, 09am -05pm</Link>
+                                            <Link target="_blank" href="#">sat-friday, 09am -05pm</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -63,7 +64,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+11002345909</Link>
+                                            <Link href="/tel:+11002345909">+966 537878566</Link>
                                         </div>
                                     </li>
                                 </ul>
