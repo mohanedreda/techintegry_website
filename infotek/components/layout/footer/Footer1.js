@@ -17,8 +17,14 @@ export default function Footer1() {
                             <div className="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
-                                        <Link href="/">
-                                            <img src="/assets/img/logo/logo-header-size.png" alt="logo-img"/>
+                                        <Link href="/" className="header-logo">
+                                            <img
+                                                src="/assets/img/logo/header-logo-01.svg"
+                                                alt="logo-img"
+                                                width={150}
+                                                height={50}
+                                                style={{display: 'block'}}
+                                            />
                                         </Link>
                                     </div>
                                     <div className="footer-content">
