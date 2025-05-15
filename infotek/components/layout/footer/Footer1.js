@@ -147,7 +147,7 @@ export default function Footer1() {
                                             <li>
                                                 <i className="fa-regular fa-envelope"/>
                                                 <Link
-                                                    href="/mailto:infotech@gmail.com">Techintegry@techintegry.com</Link>
+                                                    href="/mailto:infotech@gmail.com">info@techintegry.com</Link>
                                             </li>
                                         </ul>
                                         <Link href="/contact" className="theme-btn hover-white mt-4">

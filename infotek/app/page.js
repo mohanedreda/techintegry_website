@@ -28,7 +28,7 @@ export default function Home() {
                 <Project2 />
                 <Marque2 />
                 <Testimonial2 />
-                <Team2 />
+                {/*<Team2 />*/}
                 {/*<Pricing2 />*/}
                 <Faq2 />
                 <News2 />
