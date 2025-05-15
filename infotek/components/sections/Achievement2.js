@@ -19,8 +19,8 @@ export default function Achievement2() {
                                     <img src="/assets/img/achievement-icon/01.svg" alt="icon-img" />
                                 </div>
                                 <div className="content">
-                                    <h2><CounterUp count={6561}/>+</h2>
-                                    <p>Satisfied Clients</p>
+                                    <h2><CounterUp count={80}/>+</h2>
+                                    <p>ERP Systems Launched</p>
                                 </div>
                             </div>
                             <div className="counter-items wow fadeInUp" data-wow-delay=".5s">
@@ -28,8 +28,8 @@ export default function Achievement2() {
                                     <img src="/assets/img/achievement-icon/02.svg" alt="icon-img" />
                                 </div>
                                 <div className="content">
-                                    <h2><CounterUp count={600}/>+</h2>
-                                    <p>Finished Projects</p>
+                                    <h2><CounterUp count={12000000}/>+</h2>
+                                    <p>AI Interactions Automated</p>
                                 </div>
                             </div>
                             <div className="counter-items wow fadeInUp" data-wow-delay=".7s">
@@ -37,8 +37,8 @@ export default function Achievement2() {
                                     <img src="/assets/img/achievement-icon/03.svg" alt="icon-img" />
                                 </div>
                                 <div className="content">
-                                    <h2><CounterUp count={250}/>+</h2>
-                                    <p>Skilled Experts</p>
+                                    <h2><CounterUp count={700}/>+</h2>
+                                    <p>Processes Fully Automated</p>
                                 </div>
                             </div>
                             <div className="counter-items wow fadeInUp" data-wow-delay=".9s">
@@ -46,8 +46,8 @@ export default function Achievement2() {
                                     <img src="/assets/img/achievement-icon/04.svg" alt="icon-img" />
                                 </div>
                                 <div className="content">
-                                    <h2><CounterUp count={590}/>+</h2>
-                                    <p>Media Posts</p>
+                                    {/*<h2><CounterUp count={590}/>+</h2>*/}
+                                    <p>Odoo Gold Implementation Partner</p>
                                 </div>
                             </div>
                         </div>
