@@ -48,7 +48,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:Techintegry@Techintegry.com">info@example.com</span></Link>
+                                            <Link href="/mailto:info@azent.com"><span className="mailto:info@Techintegry.com">info@example.com</span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
