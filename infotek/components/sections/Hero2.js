@@ -50,7 +50,7 @@ export default function Hero2() {
                         </div>
                         <div className="col-lg-4">
                             <div className="hero-image wow fadeInUp" data-wow-delay=".4s">
-                                <img src="/assets/img/hero/emarty.png" alt="hero-img"/>
+                                <img src="/assets/img/hero/ai_system.png" alt="hero-img"/>
                                 <div className="border-circle">
                                     <img src="/assets/img/hero/border-circle.png" alt="shape-img"/>
                                 </div>
