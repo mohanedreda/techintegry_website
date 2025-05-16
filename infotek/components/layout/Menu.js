@@ -90,9 +90,7 @@ export default function Menu() {
                     {/*    </li>*/}
                     {/*</ul>*/}
                 </li>
-                <li>
-                    <Link href="/about">About</Link>
-                </li>
+
                 <li>
                     <Link href="/news">
                         Services
@@ -105,21 +103,26 @@ export default function Menu() {
                     </ul>
                 </li>
                 <li className="has-dropdown">
-                    <Link href="/news">
-                        Pages
+                    <Link href="/project">
+                        Projects
                         <i className="fas fa-angle-down ps-1"/>
                     </Link>
                     <ul className="submenu">
+                        <li><Link href="/project">Project</Link></li>
+                        <li><Link href="/project-carousel">Project Carousel</Link></li>
+                        <li><Link href="/project-details">Project Details</Link></li>
+                    </ul>
+                    <ul className="submenu">
                         <li className="has-dropdown">
-                            <Link href="/project">
-                                Projects
-                                <i className="fas fa-angle-down ps-1" />
-                            </Link>
-                            <ul className="submenu">
-                                <li><Link href="/project">Project</Link></li>
-                                <li><Link href="/project-carousel">Project Carousel</Link></li>
-                                <li><Link href="/project-details">Project Details</Link></li>
-                            </ul>
+                            {/*<Link href="/project">*/}
+                            {/*    Projects*/}
+                            {/*    <i className="fas fa-angle-down ps-1"/>*/}
+                            {/*</Link>*/}
+                            {/*<ul className="submenu">*/}
+                            {/*    <li><Link href="/project">Project</Link></li>*/}
+                            {/*    <li><Link href="/project-carousel">Project Carousel</Link></li>*/}
+                            {/*    <li><Link href="/project-details">Project Details</Link></li>*/}
+                            {/*</ul>*/}
                         </li>
                         <li className="has-dropdown">
                             {/*<Link href="/team">*/}
@@ -132,24 +135,21 @@ export default function Menu() {
                             {/*    <li><Link href="/team-details">Team Details</Link></li>*/}
                             {/*</ul>*/}
                         </li>
-                        <li><Link href="/pricing">Pricing</Link></li>
-                        <li><Link href="/faq">Faq's</Link></li>
-                        <li><Link href="/404">404 Page</Link></li>
+                        {/*<li><Link href="/pricing">Pricing</Link></li>*/}
+                        {/*<li><Link href="/faq">Faq's</Link></li>*/}
+                        {/*<li><Link href="/404">404 Page</Link></li>*/}
                     </ul>
                 </li>
                 <li>
-                    <Link href="/news">
-                        Blog
-                        <i className="fas fa-angle-down ps-1" />
+                    <Link href="/news-standard">
+                        News
                     </Link>
-                    <ul className="submenu">
-                        <li><Link href="/news">Blog Grid</Link></li>
-                        <li><Link href="/news-standard">Blog Standard</Link></li>
-                        <li><Link href="/news-details">Blog Details</Link></li>
-                    </ul>
                 </li>
                 <li>
                     <Link href="/contact">Contact</Link>
+                </li>
+                <li>
+                    <Link href="/about">About</Link>
                 </li>
             </ul>
         </>

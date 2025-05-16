@@ -1,5 +1,5 @@
-
 import Layout from "@/components/layout/Layout"
+
 export default function ProjectDetails() {
 
     return (
@@ -13,14 +13,15 @@ export default function ProjectDetails() {
                                 <div className="col-lg-12">
                                     <div className="project-details-items">
                                         <div className="details-image">
-                                            <img src="/assets/img/project/details.jpg" alt="img" />
+                                            <img src="/assets/img/project/details.jpg" alt="img"/>
                                         </div>
                                         <div className="row g-4 justify-content-between">
                                             <div className="col-lg-7">
                                                 <div className="details-content pt-5">
-                                                    <h3>IT Management</h3>
+                                                    <h3>ERP</h3>
                                                     <p>
-                                                        Nulla faucibus malesuada. In placerat feugiat eros ac tempor. Integer euismod massa sapien, et consequat enim laoreet et. Nulla sit amet nisi dapibus, gravida turpis sit amet, accumsan nisl. Fusce vel semper risus. Morbi congue eros sagittis, sodales turpis venenatis, iaculis dui. Proin ac purus sed nibh dapibus neque. scelerisque sed quis ante.
+                                                        Appetito is delivers daily a wide range of high quality food and
+                                                        grocery products.
                                                     </p>
                                                 </div>
                                             </div>
@@ -30,22 +31,22 @@ export default function ProjectDetails() {
                                                     <ul>
                                                         <li>
                                                             Client:
-                                                            <span>Ralph Edwards</span>
+                                                            <span>Appetito</span>
                                                         </li>
                                                         <li>
                                                             Category:
-                                                            <span>IT Management</span>
+                                                            <span>Odoo ERP Backend</span>
                                                         </li>
                                                         <li>
                                                             Location:
-                                                            <span>Landon</span>
+                                                            <span>Egypt</span>
                                                         </li>
                                                         <li>
                                                             Share:
                                                             <span>
-                                                                <i className="fa-brands fa-facebook-f me-3" />
-                                                                <i className="fa-brands fa-instagram me-3" />
-                                                                <i className="fa-brands fa-linkedin-in" />
+                                                                <i className="fa-brands fa-facebook-f me-3"/>
+                                                                <i className="fa-brands fa-instagram me-3"/>
+                                                                <i className="fa-brands fa-linkedin-in"/>
                                                             </span>
                                                         </li>
                                                     </ul>
@@ -55,69 +56,86 @@ export default function ProjectDetails() {
                                         <div className="details-content pt-3">
                                             <h3>Our Challenge</h3>
                                             <p>
-                                                Pellentesque egestas rutrum nibh facilisis ultrices. Phasellus in magna ut orci malesuada sollicitudin. Aenean faucibus scelerisque convallis. Quisque interdum mauris id nunc molestie, ac tincidunt erat gravida. Nullam dui libero, mollis ac quam et, venenatis tincidunt quam. Proin nec volutpat ligula, id porttitor augue. Proin id volutpat massa. Vivamus tincidunt nunc justo, ac aliquam ex molestie id.
+                                                Appetito operates in a fast-paced, high-demand environment where
+                                                efficiency, scalability, and real-time visibility into operations are
+                                                crucial. The challenge was to implement a robust Odoo ERP backend system
+                                                that could seamlessly integrate procurement, inventory, and order
+                                                management while maintaining accuracy and responsiveness. Ensuring data
+                                                consistency across departments and enabling actionable insights for
+                                                decision-makers were key priorities. The system also had to support
+                                                daily grocery deliveries with dynamic stock levels and complex logistics
+                                                workflows, making the implementation both technically challenging and
+                                                business-critical.
                                             </p>
                                         </div>
                                         <div className="row g-4 pt-5">
                                             <div className="col-lg-3 col-md-6">
                                                 <ul className="list">
                                                     <li>
-                                                        <i className="fa-regular fa-circle-check" />
-                                                        Branding and design Identity
+                                                        <i className="fa-regular fa-circle-check"/>
+                                                        Odoo ERP Backend Implementation
                                                     </li>
                                                     <li>
-                                                        <i className="fa-regular fa-circle-check" />
-                                                        Web site Marketing Solutions
+                                                        <i className="fa-regular fa-circle-check"/>
+                                                        Procurement and Inventory Integration
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div className="col-lg-3 col-md-6">
                                                 <ul className="list">
                                                     <li>
-                                                        <i className="fa-regular fa-circle-check" />
-                                                        Branding and design Identity
+                                                        <i className="fa-regular fa-circle-check"/>
+                                                        Order Management System
                                                     </li>
                                                     <li>
-                                                        <i className="fa-regular fa-circle-check" />
-                                                        Web site Marketing Solutions
+                                                        <i className="fa-regular fa-circle-check"/>
+                                                        Real-time Reporting and Dashboards
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div className="col-lg-3 col-md-6">
                                                 <ul className="list">
                                                     <li>
-                                                        <i className="fa-regular fa-circle-check" />
-                                                        Branding and design Identity
+                                                        <i className="fa-regular fa-circle-check"/>
+                                                        Workflow Automation
                                                     </li>
-                                                    <li>
-                                                        <i className="fa-regular fa-circle-check" />
-                                                        Web site Marketing Solutions
-                                                    </li>
+                                                    {/*<li>*/}
+                                                    {/*    <i className="fa-regular fa-circle-check"/>*/}
+                                                    {/*    Web site Marketing Solutions*/}
+                                                    {/*</li>*/}
                                                 </ul>
                                             </div>
                                         </div>
                                         <div className="details-content pt-5">
                                             <h3>The Result of Project</h3>
                                             <p>
-                                                Pellentesque egestas rutrum nibh facilisis ultrices. Phasellus in magna ut orci malesuada sollicitudin. Aenean faucibus scelerisque convallis. Quisque interdum mauris id nunc molestie, ac tincidunt erat gravida. Nullam dui libero, mollis ac quam et, venenatis tincidunt quam. Proin nec volutpat ligula, id porttitor augue. Proin id volutpat massa. Vivamus tincidunt nunc justo, ac aliquam ex molestie id.
+                                                The implementation of the Odoo ERP backend provided Appetito with a
+                                                unified digital backbone to manage their operations more efficiently.
+                                                Procurement cycles were optimized, inventory tracking became real-time,
+                                                and order fulfillment processes were streamlined—leading to a noticeable
+                                                reduction in delivery errors and delays. The system enhanced
+                                                coordination between departments, improved data accuracy, and empowered
+                                                decision-makers with insightful dashboards. As a result, Appetito
+                                                achieved better operational control, scalability to support growth, and
+                                                higher customer satisfaction through faster and more reliable service.
                                             </p>
                                         </div>
                                         <div className="row g-4 pt-5">
                                             <div className="col-lg-6 col-md-6">
                                                 <div className="thumb">
-                                                    <img src="/assets/img/project/details-2.jpg" alt="img" />
+                                                    <img src="/assets/img/project/details-2.jpg" alt="img"/>
                                                 </div>
                                             </div>
                                             <div className="col-lg-6 col-md-6">
                                                 <div className="thumb">
-                                                    <img src="/assets/img/project/details-3.jpg" alt="img" />
+                                                    <img src="/assets/img/project/details-3.jpg" alt="img"/>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="preview-area">
                                         <div className="preview-item">
-                                            <img src="/assets/img/project/p-1.png" alt="img" />
+                                            <img src="/assets/img/project/p-1.png" alt="img"/>
                                             <div className="content">
                                                 <h3>Preview</h3>
                                                 <p>Analytic Solutions</p>
@@ -128,7 +146,7 @@ export default function ProjectDetails() {
                                                 <h3>Next</h3>
                                                 <p>Software Development</p>
                                             </div>
-                                            <img src="/assets/img/project/p-2.png" alt="img" />
+                                            <img src="/assets/img/project/p-2.png" alt="img"/>
                                         </div>
                                     </div>
                                 </div>

@@ -34,10 +34,13 @@ export default function Footer1() {
                                             curabitur lacinia mollis
                                         </p>
                                         <div className="social-icon d-flex align-items-center">
-                                            <Link href="#"><i className="fab fa-facebook-f"/></Link>
-                                            <Link href="#"><i className="fab fa-twitter"/></Link>
-                                            <Link href="#"><i className="fa-brands fa-linkedin-in"/></Link>
-                                            <Link href="#"><i className="fa-brands fa-youtube"/></Link>
+                                            <Link href="https://www.facebook.com/people/Techintegry/61565844515189/"><i
+                                                className="fab fa-facebook-f"/></Link>
+                                            <Link href="https://www.instagram.com/techintegry3/"><i
+                                                className="fab fa-instagram"/></Link>
+                                            <Link href="https://www.linkedin.com/company/techintegry/"><i
+                                                className="fa-brands fa-linkedin-in"/></Link>
+                                            {/*<Link href="#"><i className="fa-brands fa-youtube"/></Link>*/}
                                         </div>
                                     </div>
                                 </div>
@@ -147,7 +150,7 @@ export default function Footer1() {
                                             <li>
                                                 <i className="fa-regular fa-envelope"/>
                                                 <Link
-                                                    href="/mailto:infotech@gmail.com">info@techintegry.com</Link>
+                                                    href="/mailto:info@techintegry.com">info@techintegry.com</Link>
                                             </li>
                                         </ul>
                                         <Link href="/contact" className="theme-btn hover-white mt-4">

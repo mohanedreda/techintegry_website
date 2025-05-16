@@ -78,7 +78,7 @@ export default function About3() {
                                             <div className="content">
                                                 <span>Call Us Now</span>
                                                 <h5>
-                                                    <Link href="/tel:+2085550112">+208-555-0112</Link>
+                                                    <Link href="/tel:+2085550112">+966 537878566</Link>
                                                 </h5>
                                             </div>
                                         </div>

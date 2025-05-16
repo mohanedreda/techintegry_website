@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call Us 7/24</p>
                                                         <h3>
-                                                            <Link href="/tel:+2085550112">+208-555-0112</Link>
+                                                            <Link href="/tel:+2085550112">+966 537878566</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -57,7 +57,7 @@ export default function Contact() {
                                                         <p>Make a Quote</p>
                                                         <h3>
                                                             <Link
-                                                                href="/mailto:infotech@gmail.com">Infotech@gmail.com</Link>
+                                                                href="/mailto:info@techintegry.com">info@techintegry.com</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -76,7 +76,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                            4517 Washington ave.
+                                                              المملكة العربية السعودية الدور 4 مبني جوهرة التحلية – حي الاندلس – جدة
                                                         </h3>
                                                     </div>
                                                 </div>

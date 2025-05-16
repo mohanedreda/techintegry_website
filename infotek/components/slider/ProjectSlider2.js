@@ -52,9 +52,9 @@ export default function ProjectSlider2({ showDots }) {
                             <div className="project-image">
                                 <img src="/assets/img/project/05.jpg" alt="project-img" />
                                 <div className="project-content">
-                                    <p>Technology</p>
+                                    <p>Erp</p>
                                     <h4>
-                                        <Link href="/project-details">Software Development</Link>
+                                        <Link href="/project-details">Odoo ERP Backend</Link>
                                     </h4>
                                     <Link href="/project-details" className="arrow-icon">
                                         <i className="fa-solid fa-arrow-right" />
